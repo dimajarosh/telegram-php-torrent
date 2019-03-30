@@ -1,0 +1,18 @@
+{
+    "name": "dimajarosh/telegram-php--torrent",
+    "description": "Telegram PHP Transmission-cli",
+    "keywords": ["transmission", "torrent", "download", "php", "telegram"],
+    "type": "library",
+    "license": "None",
+    "authors": [
+        {
+            "name": "Dmytro Yaroshevskyi",
+            "email": "dimon.jaroshewskyj.apk@gmail.com"
+        }
+    ],
+    "require": {
+        "kleiram/transmission-php": "*",
+        "unreal4u/telegram-api": "^3.4",
+        "kriswallsmith/buzz": "0.15.2"
+    }
+}
